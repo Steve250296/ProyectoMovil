@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Productos Catalogo</string>
+    <string name="titulo">ENTREVISTAS EMPRESA</string>
+    <string name="fecha">Fecha:</string>
+    <string name="nombre">Nombre:</string>
+    <string name="apellido">Apellido:</string>
+
+    <string name="nombre_escrito">Nombre...</string>
+    <string name="apellido_escrito">Apellido...</string>
+    <string name="valoracion">Valoración:</string>
+    <string name="asiste">Asiste:</string>
+    <string name="_1_10">1/10</string>
+    <string name="asiste_selec" />
+    <string name="fecha_escrita">dd/mm/yyyy</string>
+    <string name="guardar">Guardar</string>
+    <string name="imagen_prueba">Imagen_Prueba</string>
+    <string name="nombre_img">Nombre</string>
+    <string name="descripcion" />
+    <string name="imagen_recibe">imagen_recibe</string>
+    <string name="title_activity_login__prueba">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="imgLogo">logo</string>
+
+
+    <string name="ingresar">Ingresar</string>
+    <string name="usuario">Usuario:</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="registar_aqu">Registate Aquí.</string>
+    <string name="contrase_a">Contraseña:</string>
+    <string name="autenticar">Autenticar</string>
+    <string name="formulario_de_registro">FORMULARIO DE REGISTRO</string>
+    <string name="usuario_registro">Usuario:</string>
+    <string name="password">Password...</string>
+    <string name="usuarioCampo">Usuario...</string>
+    <string name="ci">CI...</string>
+    <string name="nombre_usuario">Nombre...</string>
+    <string name="sipnosis">Sipnosis</string>
+    <string name="peliculas">PELICULAS</string>
+    <string name="ubicacion">UBICACION</string>
+    <string name="title_activity_ubicacion">Map</string>
+
+
+</resources>
