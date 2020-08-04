@@ -1,0 +1,116 @@
+< component  name = " ProjectCodeStyleConfiguration " >
+  < code_scheme  name = " Project "  version = " 173 " >
+    < codeStyleSettings  language = " XML " >
+      < indentOptions >
+        < option  name = " CONTINUATION_INDENT_SIZE "  value = " 4 " />
+      </ indentOptions >
+      < arreglo >
+        < reglas >
+          < sección >
+            < regla >
+              < partido >
+                < Y >
+                  < NOMBRE > xmlns: android </ NOMBRE >
+                  < XML_ATTRIBUTE />
+                  < XML_NAMESPACE > ^ $ </ XML_NAMESPACE >
+                </ AND >
+              </ partido >
+            </ rule >
+          </ sección >
+          < sección >
+            < regla >
+              < partido >
+                < Y >
+                  < NOMBRE > xmlns:. * </ NOMBRE >
+                  < XML_ATTRIBUTE />
+                  < XML_NAMESPACE > ^ $ </ XML_NAMESPACE >
+                </ AND >
+              </ partido >
+              < orden > POR_NOMBRE </ orden >
+            </ rule >
+          </ sección >
+          < sección >
+            < regla >
+              < partido >
+                < Y >
+                  < NOMBRE >. *: Id </ NOMBRE >
+                  < XML_ATTRIBUTE />
+                  < XML_NAMESPACE > http://schemas.android.com/apk/res/android </ XML_NAMESPACE >
+                </ AND >
+              </ partido >
+            </ rule >
+          </ sección >
+          < sección >
+            < regla >
+              < partido >
+                < Y >
+                  < NOMBRE >. *: Nombre </ NOMBRE >
+                  < XML_ATTRIBUTE />
+                  < XML_NAMESPACE > http://schemas.android.com/apk/res/android </ XML_NAMESPACE >
+                </ AND >
+              </ partido >
+            </ rule >
+          </ sección >
+          < sección >
+            < regla >
+              < partido >
+                < Y >
+                  < NOMBRE > nombre </ NOMBRE >
+                  < XML_ATTRIBUTE />
+                  < XML_NAMESPACE > ^ $ </ XML_NAMESPACE >
+                </ AND >
+              </ partido >
+            </ rule >
+          </ sección >
+          < sección >
+            < regla >
+              < partido >
+                < Y >
+                  < NOMBRE > estilo </ NOMBRE >
+                  < XML_ATTRIBUTE />
+                  < XML_NAMESPACE > ^ $ </ XML_NAMESPACE >
+                </ AND >
+              </ partido >
+            </ rule >
+          </ sección >
+          < sección >
+            < regla >
+              < partido >
+                < Y >
+                  < NOMBRE >. * </ NOMBRE >
+                  < XML_ATTRIBUTE />
+                  < XML_NAMESPACE > ^ $ </ XML_NAMESPACE >
+                </ AND >
+              </ partido >
+              < orden > POR_NOMBRE </ orden >
+            </ rule >
+          </ sección >
+          < sección >
+            < regla >
+              < partido >
+                < Y >
+                  < NOMBRE >. * </ NOMBRE >
+                  < XML_ATTRIBUTE />
+                  < XML_NAMESPACE > http://schemas.android.com/apk/res/android </ XML_NAMESPACE >
+                </ AND >
+              </ partido >
+              < orden > ANDROID_ATTRIBUTE_ORDER </ orden >
+            </ rule >
+          </ sección >
+          < sección >
+            < regla >
+              < partido >
+                < Y >
+                  < NOMBRE >. * </ NOMBRE >
+                  < XML_ATTRIBUTE />
+                  < XML_NAMESPACE >. * </ XML_NAMESPACE >
+                </ AND >
+              </ partido >
+              < orden > POR_NOMBRE </ orden >
+            </ rule >
+          </ sección >
+        </ reglas >
+      </ acuerdo >
+    </ codeStyleSettings >
+  </ code_scheme >
+</ componente >
